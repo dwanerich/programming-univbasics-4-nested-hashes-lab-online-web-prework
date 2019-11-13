@@ -103,7 +103,6 @@ def changing_alan
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-          p programmer_hash[:alan_kay][:known_for] = "GUI"
         }
      }
      
