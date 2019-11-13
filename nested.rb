@@ -106,7 +106,9 @@ def changing_alan
         }
      }
      
-     p programmer_hash[:alan_kay][:known_for] = [:alans_new_info]
+     programmer_hash[:alan_kay][:known_for] = [:alans_new_info]
+     [:alans_new_info] = [:alans_new_info => "GUI"]
+     p [:alans_new_info] 
 
      
      
