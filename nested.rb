@@ -108,7 +108,6 @@ def changing_alan
      
      programmer_hash[:alan_kay][:known_for] = "Object Orientation"
      "Object Orientation" = "GUI"
-     p programmer_hash[:alan_kay][:known_for]
      
 
      
