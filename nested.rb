@@ -86,7 +86,7 @@ def adding_matz
         }
      }
 
-    p programmer_hash[:alan_kay][:known_for] = "GUI"
+    
 end
 
 def changing_alan
@@ -110,7 +110,7 @@ def changing_alan
      #alans_new_info = "GUI"
      
      
-     
+     programmer_hash[:alan_kay][:known_for] = "GUI"
 end
 
 
